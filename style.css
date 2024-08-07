@@ -30,7 +30,7 @@ input[type=text], select {
 
   }
   
-  
+  .submit:hover{background-color: #90d46b;}
   .button{
     background-color:#2c8000 ;
     color: white;
@@ -71,7 +71,7 @@ input[type=text], select {
    border-radius: 10px;}
 
 .div1:hover .div2  {display: block;}
-
+.button:hover{background-color: #90d46b;}
 
 
 
