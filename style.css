@@ -1,10 +1,12 @@
 .d1{padding: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 60px;
+
+
+  margin: 110px 490px ;
   width: 400px;
   background-color:#d3d3d3;
   border-radius: 20px;
+  position: absolute;
+  display: block;
 }
 
 input[type=text], select {
@@ -42,12 +44,12 @@ input[type=text], select {
   }
 
   .div1{
-    margin-left: 500px;
+    margin:450px 460px;
 
     width: 400px;
     padding: 40px;
     border: none;
-    position: relative;
+    position: absolute;
     display:  inline-block;
     
   }
